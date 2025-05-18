@@ -15,11 +15,6 @@ Merhaba, ben @atpsec. DevSecOps yolculuğunda adım adım ilerlemeye devam ediyo
 - TypeScript
 - Test odaklı geliştirme (TDD)
 
-### 📫 İletişim
-- [LinkedIn](https://www.linkedin.com/in/atpsec/)
-- [Twitter](https://twitter.com/atpsec)
-- [E-posta](mailto:eposta@ornek.com)
-
 ---
 
 ## 🇬🇧 English
